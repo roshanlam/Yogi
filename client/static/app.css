@@ -1,0 +1,67 @@
+* {
+	font-family: 'Nothing You Could Do', cursive;
+}
+
+a {
+	text-decoration: none;
+}
+
+body {
+	background-color: #FFFCF8;
+}
+
+h2 {
+	font-size: 40px;
+	padding-left: 25px;
+}
+
+p.backLink {
+	color: black;
+	font-size: 20px;
+	padding-left: 17px;
+}
+
+.app {
+	padding-top: 100px;
+	width: 100%;
+}
+
+.counterHolder {
+	width: 50px;
+
+}
+
+.counterDiv {
+	display: flex;
+	justify-content: center;
+}
+
+.counterText {
+	font-size: 20px
+}
+
+.yogiDiv {
+	display: flex;
+	justify-content: center;
+	padding-top: 50px;
+}
+
+.title {
+	padding-left: 20px;
+}
+
+.enterText {
+	height: 25px;
+}
+
+.introBox {
+    height: 400px;
+    width: 50%;
+    text-align: center;
+    padding-top: 121px;
+}
+
+.welcomeContainer {
+	display: flex;
+	justify-content: center;
+}
