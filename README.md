@@ -9,5 +9,7 @@ By using this app the you are able to experience a variety of simple yoga poses 
 * To start in dev mode, with everything watched: `npm run watch`
 ## For Windows
 install the npm command line and run these two commands to create a .exe for a windows device
-`npm install nativefier -g`
-`nativefier yogioffical.herokuapp.com`
+
+* `npm install nativefier -g`
+
+* `nativefier yogioffical.herokuapp.com`
